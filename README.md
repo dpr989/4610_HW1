@@ -1,11 +1,11 @@
-4610_HW 1a
-How to run:
+#4610_HW 1a
+How to run:<br>
 Markup : 
 1. Navigate to the "build" directory.
 2. Enter the command "./double_tester"
 3. Enjoy the magic
 
-How to compile:
+How to compile:<br>
 1. Delete the contents of the "build" dir.
 2. Move inside the build dir.
 3. Type "cmake .." then "make"
